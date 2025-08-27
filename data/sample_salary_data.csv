@@ -1,0 +1,21 @@
+experience_years,education_level,job_title,company_size,location,industry,remote_work,salary
+2,Bachelor,Software Engineer,Medium,California,Technology,False,75000
+5,Master,Data Scientist,Large,New York,Finance,True,95000
+1,Bachelor,Frontend Developer,Small,Texas,Technology,False,65000
+8,PhD,ML Engineer,Large,California,Technology,True,140000
+3,Bachelor,Backend Developer,Medium,Florida,Technology,False,80000
+6,Master,Product Manager,Large,Illinois,Healthcare,False,110000
+4,Bachelor,DevOps Engineer,Medium,Ohio,Technology,True,85000
+10,Master,Senior Software Engineer,Large,New Jersey,Finance,False,130000
+2,Bachelor,UI/UX Designer,Small,Texas,Design,False,70000
+7,PhD,Research Scientist,Large,California,Research,True,120000
+3,Master,Data Analyst,Medium,Florida,Healthcare,False,75000
+5,Bachelor,Full Stack Developer,Small,Illinois,Technology,True,90000
+9,Master,Engineering Manager,Large,New York,Technology,False,150000
+1,Bachelor,QA Engineer,Medium,Ohio,Technology,False,60000
+6,PhD,AI Engineer,Large,California,Technology,True,135000
+4,Master,Software Architect,Medium,Texas,Technology,False,100000
+8,Bachelor,Senior Developer,Large,Florida,Finance,True,115000
+2,Master,Data Engineer,Small,Illinois,Technology,False,80000
+7,PhD,Principal Engineer,Large,New Jersey,Technology,False,160000
+3,Bachelor,Systems Administrator,Medium,Ohio,Healthcare,True,70000 
